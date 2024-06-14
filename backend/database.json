@@ -1,0 +1,24 @@
+{
+  "bugtracking": [
+    {
+      "issue_name": "Table Improvement ne",
+      "issue_message": "Issue tracking is awesome because of collaboration",
+      "id": 3
+    },
+    {
+      "issue_name": "101 - tcc portal",
+      "issue_message": "not able to access TCC portal",
+      "id": 4
+    },
+    {
+      "issue_name": "102 - tcc portal",
+      "issue_message": "not able to access TCC portal",
+      "id": 5
+    },
+    {
+      "issue_name": "101",
+      "issue_message": "NodeJS not accessible",
+      "id": 6
+    }
+  ]
+}
